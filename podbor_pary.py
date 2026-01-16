@@ -16,3 +16,5 @@ else:
         print(f"{sorted_boys[i]} и {sorted_girls[i]}")
 
         # Добавили строку для ветвления
+
+        # Добавили строку для pull-requests
